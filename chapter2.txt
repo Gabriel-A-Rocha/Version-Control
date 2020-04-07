@@ -1,3 +1,5 @@
 This is chapter 2.
 
 Modified something in the chapter 2 file.
+
+Modified something else.
