@@ -1,1 +1,3 @@
 This is chapter 3.
+
+Nonsense change in chapter 3 (done in the side branch).
